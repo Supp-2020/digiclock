@@ -30,7 +30,6 @@ pip install tk
 ```
 $ git clone https://github.com/Supp-2020/digiclock
 $ cd digiclock
-$ Python3
 $ python digi_clock.py
 ```
 #### OR
