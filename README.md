@@ -2,12 +2,12 @@
 
 
 ## Table of Contents
-* [General Information](#general-info)
+* [General Information](#general information)
 * [Prerequisites](#prerequisites)
-* [Installation](#install)
-* [How to Run](#h2r)
-* [Screenshots](#screen)
-* [Contributions](#contri)
+* [Installation](#installation)
+* [How to Run](#how to run)
+* [Screenshots](#screenshots)
+* [Contributions](#contributions)
 
 ## General Information
 Simple *digital clock* with **Python3** and with help of **tkinter** library (Python's standard GUI package).
