@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Information](#generalinformation)
 * [Prerequisites](#prerequisites)
-* [Installation](#installations)
+* [Installation](#installation)
 * [How to Run](#howtorun)
 * [Screenshots](#screenshots)
 * [Contributions](#contrinbutions)
